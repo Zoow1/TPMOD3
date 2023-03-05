@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Pelajaran\KPL\Modul3\Modul3\Modul3\obj\Debug\Modul3.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Pelajaran\KPL\Modul3\Modul3\Modul3\obj\Debug\Modul3.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\Pelajaran\KPL\Modul3\Modul3\Modul3\obj\Debug\Modul3.Form1.resources
+C:\Users\USER\Documents\Pelajaran\KPL\Modul3\Modul3\Modul3\obj\Debug\Modul3.Properties.Resources.resources
+C:\Users\USER\Documents\Pelajaran\KPL\Modul3\Modul3\Modul3\obj\Debug\Modul3.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Pelajaran\KPL\Modul3\Modul3\Modul3\obj\Debug\Modul3.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Pelajaran\KPL\Modul3\Modul3\Modul3\bin\Debug\Modul3.exe.config
+C:\Users\USER\Documents\Pelajaran\KPL\Modul3\Modul3\Modul3\bin\Debug\Modul3.exe
+C:\Users\USER\Documents\Pelajaran\KPL\Modul3\Modul3\Modul3\bin\Debug\Modul3.pdb
+C:\Users\USER\Documents\Pelajaran\KPL\Modul3\Modul3\Modul3\obj\Debug\Modul3.exe
+C:\Users\USER\Documents\Pelajaran\KPL\Modul3\Modul3\Modul3\obj\Debug\Modul3.pdb
